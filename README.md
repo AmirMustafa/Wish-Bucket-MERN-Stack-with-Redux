@@ -1,4 +1,4 @@
-# Wish-Bucket
+# Wish-Bucket with Redux
 
 A Node JS repository which uses Mongo DB Atlas as the database and React JS as the View. This is basically a CRUD operation done in full MERN Stack
 
@@ -10,11 +10,11 @@ A Node JS repository which uses Mongo DB Atlas as the database and React JS as t
 5. In config/keys.js - paste your mongo db atlas url
 
 ## Screenshot
-<img src='https://user-images.githubusercontent.com/15896579/71648632-d561f880-2d2c-11ea-840c-5968e9667d4f.png' alt="Project image"/>
+<img src='https://user-images.githubusercontent.com/15896579/72030400-de177900-32ae-11ea-90ca-c719ecc3d4a4.png' alt="Project image"/>
 <img src='https://user-images.githubusercontent.com/15896579/71648635-d8f57f80-2d2c-11ea-94e3-f90929359d17.png' alt="Project DB"/>
 
 ##  Project Video (Explaination)
-https://www.loom.com/share/810d8193765a407eaf23ab7824398070
+https://www.loom.com/share/aae985f7741e4b81a30bee5d9720a48d
 
 ## Create Nongo DB Atlas account
 Creating Cluster - https://www.loom.com/share/adee9881e4874f48a472b0ab57747db5
